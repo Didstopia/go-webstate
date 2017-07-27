@@ -1,5 +1,6 @@
 package webstate
 
+// Import the testing package
 import "testing"
 
 func TestStuff(t *testing.T) {
