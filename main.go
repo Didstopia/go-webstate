@@ -1,5 +1,6 @@
 package webstate
 
+// Variable that holds our test result
 var testResult string
 
 // Init ...
